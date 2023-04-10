@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Loops\13.WhileAuth\bin\Debug\net6.0\13.WhileAuth.exe
+D:\Projects\VS Projects\Loops\13.WhileAuth\bin\Debug\net6.0\13.WhileAuth.deps.json
+D:\Projects\VS Projects\Loops\13.WhileAuth\bin\Debug\net6.0\13.WhileAuth.runtimeconfig.json
+D:\Projects\VS Projects\Loops\13.WhileAuth\bin\Debug\net6.0\13.WhileAuth.dll
+D:\Projects\VS Projects\Loops\13.WhileAuth\bin\Debug\net6.0\13.WhileAuth.pdb
+D:\Projects\VS Projects\Loops\13.WhileAuth\obj\Debug\net6.0\13.WhileAuth.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Loops\13.WhileAuth\obj\Debug\net6.0\13.WhileAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Loops\13.WhileAuth\obj\Debug\net6.0\13.WhileAuth.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Loops\13.WhileAuth\obj\Debug\net6.0\13.WhileAuth.AssemblyInfo.cs
+D:\Projects\VS Projects\Loops\13.WhileAuth\obj\Debug\net6.0\13.WhileAuth.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Loops\13.WhileAuth\obj\Debug\net6.0\13.WhileAuth.dll
+D:\Projects\VS Projects\Loops\13.WhileAuth\obj\Debug\net6.0\refint\13.WhileAuth.dll
+D:\Projects\VS Projects\Loops\13.WhileAuth\obj\Debug\net6.0\13.WhileAuth.pdb
+D:\Projects\VS Projects\Loops\13.WhileAuth\obj\Debug\net6.0\13.WhileAuth.genruntimeconfig.cache
+D:\Projects\VS Projects\Loops\13.WhileAuth\obj\Debug\net6.0\ref\13.WhileAuth.dll

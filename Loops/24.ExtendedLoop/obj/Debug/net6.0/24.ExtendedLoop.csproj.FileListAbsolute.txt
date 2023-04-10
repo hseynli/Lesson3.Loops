@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Loops\24.ExtendedLoop\bin\Debug\net6.0\24.ExtendedLoop.exe
+D:\Projects\VS Projects\Loops\24.ExtendedLoop\bin\Debug\net6.0\24.ExtendedLoop.deps.json
+D:\Projects\VS Projects\Loops\24.ExtendedLoop\bin\Debug\net6.0\24.ExtendedLoop.runtimeconfig.json
+D:\Projects\VS Projects\Loops\24.ExtendedLoop\bin\Debug\net6.0\24.ExtendedLoop.dll
+D:\Projects\VS Projects\Loops\24.ExtendedLoop\bin\Debug\net6.0\24.ExtendedLoop.pdb
+D:\Projects\VS Projects\Loops\24.ExtendedLoop\obj\Debug\net6.0\24.ExtendedLoop.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Loops\24.ExtendedLoop\obj\Debug\net6.0\24.ExtendedLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Loops\24.ExtendedLoop\obj\Debug\net6.0\24.ExtendedLoop.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Loops\24.ExtendedLoop\obj\Debug\net6.0\24.ExtendedLoop.AssemblyInfo.cs
+D:\Projects\VS Projects\Loops\24.ExtendedLoop\obj\Debug\net6.0\24.ExtendedLoop.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Loops\24.ExtendedLoop\obj\Debug\net6.0\24.ExtendedLoop.dll
+D:\Projects\VS Projects\Loops\24.ExtendedLoop\obj\Debug\net6.0\refint\24.ExtendedLoop.dll
+D:\Projects\VS Projects\Loops\24.ExtendedLoop\obj\Debug\net6.0\24.ExtendedLoop.pdb
+D:\Projects\VS Projects\Loops\24.ExtendedLoop\obj\Debug\net6.0\24.ExtendedLoop.genruntimeconfig.cache
+D:\Projects\VS Projects\Loops\24.ExtendedLoop\obj\Debug\net6.0\ref\24.ExtendedLoop.dll

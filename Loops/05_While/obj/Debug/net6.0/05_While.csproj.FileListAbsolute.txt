@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Loops\05_While\bin\Debug\net6.0\05_While.exe
+D:\Projects\VS Projects\Loops\05_While\bin\Debug\net6.0\05_While.deps.json
+D:\Projects\VS Projects\Loops\05_While\bin\Debug\net6.0\05_While.runtimeconfig.json
+D:\Projects\VS Projects\Loops\05_While\bin\Debug\net6.0\05_While.dll
+D:\Projects\VS Projects\Loops\05_While\bin\Debug\net6.0\05_While.pdb
+D:\Projects\VS Projects\Loops\05_While\obj\Debug\net6.0\05_While.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Loops\05_While\obj\Debug\net6.0\05_While.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Loops\05_While\obj\Debug\net6.0\05_While.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Loops\05_While\obj\Debug\net6.0\05_While.AssemblyInfo.cs
+D:\Projects\VS Projects\Loops\05_While\obj\Debug\net6.0\05_While.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Loops\05_While\obj\Debug\net6.0\05_While.dll
+D:\Projects\VS Projects\Loops\05_While\obj\Debug\net6.0\refint\05_While.dll
+D:\Projects\VS Projects\Loops\05_While\obj\Debug\net6.0\05_While.pdb
+D:\Projects\VS Projects\Loops\05_While\obj\Debug\net6.0\05_While.genruntimeconfig.cache
+D:\Projects\VS Projects\Loops\05_While\obj\Debug\net6.0\ref\05_While.dll

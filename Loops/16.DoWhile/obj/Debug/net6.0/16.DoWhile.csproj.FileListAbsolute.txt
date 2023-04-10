@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Loops\16.DoWhile\bin\Debug\net6.0\16.DoWhile.exe
+D:\Projects\VS Projects\Loops\16.DoWhile\bin\Debug\net6.0\16.DoWhile.deps.json
+D:\Projects\VS Projects\Loops\16.DoWhile\bin\Debug\net6.0\16.DoWhile.runtimeconfig.json
+D:\Projects\VS Projects\Loops\16.DoWhile\bin\Debug\net6.0\16.DoWhile.dll
+D:\Projects\VS Projects\Loops\16.DoWhile\bin\Debug\net6.0\16.DoWhile.pdb
+D:\Projects\VS Projects\Loops\16.DoWhile\obj\Debug\net6.0\16.DoWhile.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Loops\16.DoWhile\obj\Debug\net6.0\16.DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Loops\16.DoWhile\obj\Debug\net6.0\16.DoWhile.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Loops\16.DoWhile\obj\Debug\net6.0\16.DoWhile.AssemblyInfo.cs
+D:\Projects\VS Projects\Loops\16.DoWhile\obj\Debug\net6.0\16.DoWhile.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Loops\16.DoWhile\obj\Debug\net6.0\16.DoWhile.dll
+D:\Projects\VS Projects\Loops\16.DoWhile\obj\Debug\net6.0\refint\16.DoWhile.dll
+D:\Projects\VS Projects\Loops\16.DoWhile\obj\Debug\net6.0\16.DoWhile.pdb
+D:\Projects\VS Projects\Loops\16.DoWhile\obj\Debug\net6.0\16.DoWhile.genruntimeconfig.cache
+D:\Projects\VS Projects\Loops\16.DoWhile\obj\Debug\net6.0\ref\16.DoWhile.dll

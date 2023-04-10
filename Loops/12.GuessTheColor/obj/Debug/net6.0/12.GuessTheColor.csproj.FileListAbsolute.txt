@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Loops\12.GuessTheColor\bin\Debug\net6.0\12.GuessTheColor.exe
+D:\Projects\VS Projects\Loops\12.GuessTheColor\bin\Debug\net6.0\12.GuessTheColor.deps.json
+D:\Projects\VS Projects\Loops\12.GuessTheColor\bin\Debug\net6.0\12.GuessTheColor.runtimeconfig.json
+D:\Projects\VS Projects\Loops\12.GuessTheColor\bin\Debug\net6.0\12.GuessTheColor.dll
+D:\Projects\VS Projects\Loops\12.GuessTheColor\bin\Debug\net6.0\12.GuessTheColor.pdb
+D:\Projects\VS Projects\Loops\12.GuessTheColor\obj\Debug\net6.0\12.GuessTheColor.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Loops\12.GuessTheColor\obj\Debug\net6.0\12.GuessTheColor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Loops\12.GuessTheColor\obj\Debug\net6.0\12.GuessTheColor.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Loops\12.GuessTheColor\obj\Debug\net6.0\12.GuessTheColor.AssemblyInfo.cs
+D:\Projects\VS Projects\Loops\12.GuessTheColor\obj\Debug\net6.0\12.GuessTheColor.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Loops\12.GuessTheColor\obj\Debug\net6.0\12.GuessTheColor.dll
+D:\Projects\VS Projects\Loops\12.GuessTheColor\obj\Debug\net6.0\refint\12.GuessTheColor.dll
+D:\Projects\VS Projects\Loops\12.GuessTheColor\obj\Debug\net6.0\12.GuessTheColor.pdb
+D:\Projects\VS Projects\Loops\12.GuessTheColor\obj\Debug\net6.0\12.GuessTheColor.genruntimeconfig.cache
+D:\Projects\VS Projects\Loops\12.GuessTheColor\obj\Debug\net6.0\ref\12.GuessTheColor.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Loops\08_Continue\bin\Debug\net6.0\08_Continue.exe
+D:\Projects\VS Projects\Loops\08_Continue\bin\Debug\net6.0\08_Continue.deps.json
+D:\Projects\VS Projects\Loops\08_Continue\bin\Debug\net6.0\08_Continue.runtimeconfig.json
+D:\Projects\VS Projects\Loops\08_Continue\bin\Debug\net6.0\08_Continue.dll
+D:\Projects\VS Projects\Loops\08_Continue\bin\Debug\net6.0\08_Continue.pdb
+D:\Projects\VS Projects\Loops\08_Continue\obj\Debug\net6.0\08_Continue.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Loops\08_Continue\obj\Debug\net6.0\08_Continue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Loops\08_Continue\obj\Debug\net6.0\08_Continue.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Loops\08_Continue\obj\Debug\net6.0\08_Continue.AssemblyInfo.cs
+D:\Projects\VS Projects\Loops\08_Continue\obj\Debug\net6.0\08_Continue.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Loops\08_Continue\obj\Debug\net6.0\08_Continue.dll
+D:\Projects\VS Projects\Loops\08_Continue\obj\Debug\net6.0\refint\08_Continue.dll
+D:\Projects\VS Projects\Loops\08_Continue\obj\Debug\net6.0\08_Continue.pdb
+D:\Projects\VS Projects\Loops\08_Continue\obj\Debug\net6.0\08_Continue.genruntimeconfig.cache
+D:\Projects\VS Projects\Loops\08_Continue\obj\Debug\net6.0\ref\08_Continue.dll

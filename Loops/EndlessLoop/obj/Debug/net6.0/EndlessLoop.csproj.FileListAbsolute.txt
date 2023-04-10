@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Loops\EndlessLoop\bin\Debug\net6.0\EndlessLoop.exe
+D:\Projects\VS Projects\Loops\EndlessLoop\bin\Debug\net6.0\EndlessLoop.deps.json
+D:\Projects\VS Projects\Loops\EndlessLoop\bin\Debug\net6.0\EndlessLoop.runtimeconfig.json
+D:\Projects\VS Projects\Loops\EndlessLoop\bin\Debug\net6.0\EndlessLoop.dll
+D:\Projects\VS Projects\Loops\EndlessLoop\bin\Debug\net6.0\EndlessLoop.pdb
+D:\Projects\VS Projects\Loops\EndlessLoop\obj\Debug\net6.0\EndlessLoop.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Loops\EndlessLoop\obj\Debug\net6.0\EndlessLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Loops\EndlessLoop\obj\Debug\net6.0\EndlessLoop.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Loops\EndlessLoop\obj\Debug\net6.0\EndlessLoop.AssemblyInfo.cs
+D:\Projects\VS Projects\Loops\EndlessLoop\obj\Debug\net6.0\EndlessLoop.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Loops\EndlessLoop\obj\Debug\net6.0\EndlessLoop.dll
+D:\Projects\VS Projects\Loops\EndlessLoop\obj\Debug\net6.0\refint\EndlessLoop.dll
+D:\Projects\VS Projects\Loops\EndlessLoop\obj\Debug\net6.0\EndlessLoop.pdb
+D:\Projects\VS Projects\Loops\EndlessLoop\obj\Debug\net6.0\EndlessLoop.genruntimeconfig.cache
+D:\Projects\VS Projects\Loops\EndlessLoop\obj\Debug\net6.0\ref\EndlessLoop.dll

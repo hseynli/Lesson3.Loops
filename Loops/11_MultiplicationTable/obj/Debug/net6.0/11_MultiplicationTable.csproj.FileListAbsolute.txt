@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Loops\11_MultiplicationTable\bin\Debug\net6.0\11_MultiplicationTable.exe
+D:\Projects\VS Projects\Loops\11_MultiplicationTable\bin\Debug\net6.0\11_MultiplicationTable.deps.json
+D:\Projects\VS Projects\Loops\11_MultiplicationTable\bin\Debug\net6.0\11_MultiplicationTable.runtimeconfig.json
+D:\Projects\VS Projects\Loops\11_MultiplicationTable\bin\Debug\net6.0\11_MultiplicationTable.dll
+D:\Projects\VS Projects\Loops\11_MultiplicationTable\bin\Debug\net6.0\11_MultiplicationTable.pdb
+D:\Projects\VS Projects\Loops\11_MultiplicationTable\obj\Debug\net6.0\11_MultiplicationTable.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Loops\11_MultiplicationTable\obj\Debug\net6.0\11_MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Loops\11_MultiplicationTable\obj\Debug\net6.0\11_MultiplicationTable.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Loops\11_MultiplicationTable\obj\Debug\net6.0\11_MultiplicationTable.AssemblyInfo.cs
+D:\Projects\VS Projects\Loops\11_MultiplicationTable\obj\Debug\net6.0\11_MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Loops\11_MultiplicationTable\obj\Debug\net6.0\11_MultiplicationTable.dll
+D:\Projects\VS Projects\Loops\11_MultiplicationTable\obj\Debug\net6.0\refint\11_MultiplicationTable.dll
+D:\Projects\VS Projects\Loops\11_MultiplicationTable\obj\Debug\net6.0\11_MultiplicationTable.pdb
+D:\Projects\VS Projects\Loops\11_MultiplicationTable\obj\Debug\net6.0\11_MultiplicationTable.genruntimeconfig.cache
+D:\Projects\VS Projects\Loops\11_MultiplicationTable\obj\Debug\net6.0\ref\11_MultiplicationTable.dll

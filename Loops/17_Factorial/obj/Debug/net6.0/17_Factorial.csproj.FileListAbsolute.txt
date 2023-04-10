@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Loops\17_Factorial\bin\Debug\net6.0\17_Factorial.exe
+D:\Projects\VS Projects\Loops\17_Factorial\bin\Debug\net6.0\17_Factorial.deps.json
+D:\Projects\VS Projects\Loops\17_Factorial\bin\Debug\net6.0\17_Factorial.runtimeconfig.json
+D:\Projects\VS Projects\Loops\17_Factorial\bin\Debug\net6.0\17_Factorial.dll
+D:\Projects\VS Projects\Loops\17_Factorial\bin\Debug\net6.0\17_Factorial.pdb
+D:\Projects\VS Projects\Loops\17_Factorial\obj\Debug\net6.0\17_Factorial.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Loops\17_Factorial\obj\Debug\net6.0\17_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Loops\17_Factorial\obj\Debug\net6.0\17_Factorial.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Loops\17_Factorial\obj\Debug\net6.0\17_Factorial.AssemblyInfo.cs
+D:\Projects\VS Projects\Loops\17_Factorial\obj\Debug\net6.0\17_Factorial.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Loops\17_Factorial\obj\Debug\net6.0\17_Factorial.dll
+D:\Projects\VS Projects\Loops\17_Factorial\obj\Debug\net6.0\refint\17_Factorial.dll
+D:\Projects\VS Projects\Loops\17_Factorial\obj\Debug\net6.0\17_Factorial.pdb
+D:\Projects\VS Projects\Loops\17_Factorial\obj\Debug\net6.0\17_Factorial.genruntimeconfig.cache
+D:\Projects\VS Projects\Loops\17_Factorial\obj\Debug\net6.0\ref\17_Factorial.dll

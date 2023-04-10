@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Loops\07_Break\bin\Debug\net6.0\07_Break.exe
+D:\Projects\VS Projects\Loops\07_Break\bin\Debug\net6.0\07_Break.deps.json
+D:\Projects\VS Projects\Loops\07_Break\bin\Debug\net6.0\07_Break.runtimeconfig.json
+D:\Projects\VS Projects\Loops\07_Break\bin\Debug\net6.0\07_Break.dll
+D:\Projects\VS Projects\Loops\07_Break\bin\Debug\net6.0\07_Break.pdb
+D:\Projects\VS Projects\Loops\07_Break\obj\Debug\net6.0\07_Break.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Loops\07_Break\obj\Debug\net6.0\07_Break.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Loops\07_Break\obj\Debug\net6.0\07_Break.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Loops\07_Break\obj\Debug\net6.0\07_Break.AssemblyInfo.cs
+D:\Projects\VS Projects\Loops\07_Break\obj\Debug\net6.0\07_Break.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Loops\07_Break\obj\Debug\net6.0\07_Break.dll
+D:\Projects\VS Projects\Loops\07_Break\obj\Debug\net6.0\refint\07_Break.dll
+D:\Projects\VS Projects\Loops\07_Break\obj\Debug\net6.0\07_Break.pdb
+D:\Projects\VS Projects\Loops\07_Break\obj\Debug\net6.0\07_Break.genruntimeconfig.cache
+D:\Projects\VS Projects\Loops\07_Break\obj\Debug\net6.0\ref\07_Break.dll

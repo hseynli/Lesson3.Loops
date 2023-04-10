@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Loops\02.GoTo\bin\Debug\net6.0\02.GoTo.exe
+D:\Projects\VS Projects\Loops\02.GoTo\bin\Debug\net6.0\02.GoTo.deps.json
+D:\Projects\VS Projects\Loops\02.GoTo\bin\Debug\net6.0\02.GoTo.runtimeconfig.json
+D:\Projects\VS Projects\Loops\02.GoTo\bin\Debug\net6.0\02.GoTo.dll
+D:\Projects\VS Projects\Loops\02.GoTo\bin\Debug\net6.0\02.GoTo.pdb
+D:\Projects\VS Projects\Loops\02.GoTo\obj\Debug\net6.0\02.GoTo.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Loops\02.GoTo\obj\Debug\net6.0\02.GoTo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Loops\02.GoTo\obj\Debug\net6.0\02.GoTo.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Loops\02.GoTo\obj\Debug\net6.0\02.GoTo.AssemblyInfo.cs
+D:\Projects\VS Projects\Loops\02.GoTo\obj\Debug\net6.0\02.GoTo.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Loops\02.GoTo\obj\Debug\net6.0\02.GoTo.dll
+D:\Projects\VS Projects\Loops\02.GoTo\obj\Debug\net6.0\refint\02.GoTo.dll
+D:\Projects\VS Projects\Loops\02.GoTo\obj\Debug\net6.0\02.GoTo.pdb
+D:\Projects\VS Projects\Loops\02.GoTo\obj\Debug\net6.0\02.GoTo.genruntimeconfig.cache
+D:\Projects\VS Projects\Loops\02.GoTo\obj\Debug\net6.0\ref\02.GoTo.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Loops\21.ForIn\bin\Debug\net6.0\21.ForIn.exe
+D:\Projects\VS Projects\Loops\21.ForIn\bin\Debug\net6.0\21.ForIn.deps.json
+D:\Projects\VS Projects\Loops\21.ForIn\bin\Debug\net6.0\21.ForIn.runtimeconfig.json
+D:\Projects\VS Projects\Loops\21.ForIn\bin\Debug\net6.0\21.ForIn.dll
+D:\Projects\VS Projects\Loops\21.ForIn\bin\Debug\net6.0\21.ForIn.pdb
+D:\Projects\VS Projects\Loops\21.ForIn\obj\Debug\net6.0\21.ForIn.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Loops\21.ForIn\obj\Debug\net6.0\21.ForIn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Loops\21.ForIn\obj\Debug\net6.0\21.ForIn.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Loops\21.ForIn\obj\Debug\net6.0\21.ForIn.AssemblyInfo.cs
+D:\Projects\VS Projects\Loops\21.ForIn\obj\Debug\net6.0\21.ForIn.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Loops\21.ForIn\obj\Debug\net6.0\21.ForIn.dll
+D:\Projects\VS Projects\Loops\21.ForIn\obj\Debug\net6.0\refint\21.ForIn.dll
+D:\Projects\VS Projects\Loops\21.ForIn\obj\Debug\net6.0\21.ForIn.pdb
+D:\Projects\VS Projects\Loops\21.ForIn\obj\Debug\net6.0\21.ForIn.genruntimeconfig.cache
+D:\Projects\VS Projects\Loops\21.ForIn\obj\Debug\net6.0\ref\21.ForIn.dll
