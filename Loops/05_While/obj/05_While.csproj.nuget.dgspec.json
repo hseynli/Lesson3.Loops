@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\VS Projects\\Loops\\05_While\\05_While.csproj": {}
+    "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\05_While\\05_While.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\VS Projects\\Loops\\05_While\\05_While.csproj": {
+    "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\05_While\\05_While.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\VS Projects\\Loops\\05_While\\05_While.csproj",
+        "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\05_While\\05_While.csproj",
         "projectName": "05_While",
-        "projectPath": "D:\\Projects\\VS Projects\\Loops\\05_While\\05_While.csproj",
+        "projectPath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\05_While\\05_While.csproj",
         "packagesPath": "C:\\Users\\farid.huseynli\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\VS Projects\\Loops\\05_While\\obj\\",
+        "outputPath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\05_While\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

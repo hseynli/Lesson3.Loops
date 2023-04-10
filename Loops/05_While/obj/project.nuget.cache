@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XLAqvC7/RCXZoeL5r2F5ibBpO38wgliGRF74WZj4kXjnVSUsWg1frDirpndr7XJRVYKUCR9yaZwlZFFgwUjPsA==",
+  "dgSpecHash": "yiY4ZYC5EfExoqB5F35iKgIB25r5Z/t1VVpO2+74EshrbpjuECf/do5gtIuMZGQK9lpP28hoVSlu3fB3Yh4s1A==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\VS Projects\\Loops\\05_While\\05_While.csproj",
+  "projectFilePath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\05_While\\05_While.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

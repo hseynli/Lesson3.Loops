@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\VS Projects\\Loops\\07_Break\\07_Break.csproj",
+      "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\07_Break\\07_Break.csproj",
       "projectName": "07_Break",
-      "projectPath": "D:\\Projects\\VS Projects\\Loops\\07_Break\\07_Break.csproj",
+      "projectPath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\07_Break\\07_Break.csproj",
       "packagesPath": "C:\\Users\\farid.huseynli\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\VS Projects\\Loops\\07_Break\\obj\\",
+      "outputPath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\07_Break\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\VS Projects\\Loops\\15.DoWhile\\15.DoWhile.csproj": {}
+    "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\15.DoWhile\\15.DoWhile.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\VS Projects\\Loops\\15.DoWhile\\15.DoWhile.csproj": {
+    "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\15.DoWhile\\15.DoWhile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\VS Projects\\Loops\\15.DoWhile\\15.DoWhile.csproj",
+        "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\15.DoWhile\\15.DoWhile.csproj",
         "projectName": "15.DoWhile",
-        "projectPath": "D:\\Projects\\VS Projects\\Loops\\15.DoWhile\\15.DoWhile.csproj",
+        "projectPath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\15.DoWhile\\15.DoWhile.csproj",
         "packagesPath": "C:\\Users\\farid.huseynli\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\VS Projects\\Loops\\15.DoWhile\\obj\\",
+        "outputPath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\15.DoWhile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

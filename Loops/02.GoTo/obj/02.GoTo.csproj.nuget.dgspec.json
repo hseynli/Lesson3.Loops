@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\VS Projects\\Loops\\02.GoTo\\02.GoTo.csproj": {}
+    "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\02.GoTo\\02.GoTo.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\VS Projects\\Loops\\02.GoTo\\02.GoTo.csproj": {
+    "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\02.GoTo\\02.GoTo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\VS Projects\\Loops\\02.GoTo\\02.GoTo.csproj",
+        "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\02.GoTo\\02.GoTo.csproj",
         "projectName": "02.GoTo",
-        "projectPath": "D:\\Projects\\VS Projects\\Loops\\02.GoTo\\02.GoTo.csproj",
+        "projectPath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\02.GoTo\\02.GoTo.csproj",
         "packagesPath": "C:\\Users\\farid.huseynli\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\VS Projects\\Loops\\02.GoTo\\obj\\",
+        "outputPath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\02.GoTo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

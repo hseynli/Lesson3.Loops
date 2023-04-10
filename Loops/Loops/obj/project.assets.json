@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\VS Projects\\Loops\\Loops\\01.GoTo.csproj",
+      "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\Loops\\01.GoTo.csproj",
       "projectName": "01.GoTo",
-      "projectPath": "D:\\Projects\\VS Projects\\Loops\\Loops\\01.GoTo.csproj",
+      "projectPath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\Loops\\01.GoTo.csproj",
       "packagesPath": "C:\\Users\\farid.huseynli\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\VS Projects\\Loops\\Loops\\obj\\",
+      "outputPath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\Loops\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

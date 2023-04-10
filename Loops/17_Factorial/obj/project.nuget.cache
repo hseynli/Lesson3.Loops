@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DXw4V1Gg48mjDqGC0OXRjT77jUPWhtaxZ0y7Km7XiK5g3xLvUYciZ2FWBJZJ80gJ4XMW9sjWwuE0MnV+LFbolw==",
+  "dgSpecHash": "ceODoRWO79G9fargD7xPDGv0nUFzUY3PCVyG+yyF8HsPWBNK9yGQgwHHeUH+fPqowcDI/gyD/6x/PuIjHyAK7Q==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\VS Projects\\Loops\\17_Factorial\\17_Factorial.csproj",
+  "projectFilePath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\17_Factorial\\17_Factorial.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

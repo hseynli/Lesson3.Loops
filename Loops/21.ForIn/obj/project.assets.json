@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\VS Projects\\Loops\\21.ForIn\\21.ForIn.csproj",
+      "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\21.ForIn\\21.ForIn.csproj",
       "projectName": "21.ForIn",
-      "projectPath": "D:\\Projects\\VS Projects\\Loops\\21.ForIn\\21.ForIn.csproj",
+      "projectPath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\21.ForIn\\21.ForIn.csproj",
       "packagesPath": "C:\\Users\\farid.huseynli\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\VS Projects\\Loops\\21.ForIn\\obj\\",
+      "outputPath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\21.ForIn\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

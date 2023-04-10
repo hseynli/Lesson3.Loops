@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\VS Projects\\Loops\\20.For\\20.For.csproj": {}
+    "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\20.For\\20.For.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\VS Projects\\Loops\\20.For\\20.For.csproj": {
+    "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\20.For\\20.For.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\VS Projects\\Loops\\20.For\\20.For.csproj",
+        "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\20.For\\20.For.csproj",
         "projectName": "20.For",
-        "projectPath": "D:\\Projects\\VS Projects\\Loops\\20.For\\20.For.csproj",
+        "projectPath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\20.For\\20.For.csproj",
         "packagesPath": "C:\\Users\\farid.huseynli\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\VS Projects\\Loops\\20.For\\obj\\",
+        "outputPath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\20.For\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

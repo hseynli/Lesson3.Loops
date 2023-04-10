@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\VS Projects\\Loops\\11_MultiplicationTable\\11_MultiplicationTable.csproj": {}
+    "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\11_MultiplicationTable\\11_MultiplicationTable.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\VS Projects\\Loops\\11_MultiplicationTable\\11_MultiplicationTable.csproj": {
+    "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\11_MultiplicationTable\\11_MultiplicationTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\VS Projects\\Loops\\11_MultiplicationTable\\11_MultiplicationTable.csproj",
+        "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\11_MultiplicationTable\\11_MultiplicationTable.csproj",
         "projectName": "11_MultiplicationTable",
-        "projectPath": "D:\\Projects\\VS Projects\\Loops\\11_MultiplicationTable\\11_MultiplicationTable.csproj",
+        "projectPath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\11_MultiplicationTable\\11_MultiplicationTable.csproj",
         "packagesPath": "C:\\Users\\farid.huseynli\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\VS Projects\\Loops\\11_MultiplicationTable\\obj\\",
+        "outputPath": "D:\\Projects\\VS Projects\\Lesson3.Loops\\Loops\\11_MultiplicationTable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
